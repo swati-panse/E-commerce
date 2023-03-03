@@ -1,0 +1,110 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://image26.stylesimo.com/o_img/2017/08/09/231420-10380357/women-s-elegant-solid-evening-pleated-chiffon-dress.jpg",
+      "title": "women solid chiffon dress",
+      "price": 999
+    },
+    {
+      "id": 2,
+      "image": "http://blog.southindiajewels.com/wp-content/uploads/2019/12/traditional-gold-necklace-designs-3.jpg",
+      "title": "jewellery set-traditional",
+      "price": 850
+    },
+    {
+      "id": 3,
+      "image": "https://i5.walmartimages.com/asr/3a5ce2a3-3f38-414f-9724-5cead37da903.2a44fbcacd1b7e68a403a37ec0d0afda.jpeg",
+      "title": "Apple iPhone XS 256GB Gold B Grade",
+      "price": 35000
+    },
+    {
+      "id": 4,
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1664423222/Croma%20Assets/Computers%20Peripherals/Laptop/Images/256711_0_cjayuw.png/mxw_2048,f_auto",
+      "title": "Apple MacBook Air 2020 (M1, 13.3 Inch, 8GB, 256GB, macOS Big Sur, Space Grey)",
+      "price": 83900
+    },
+    {
+      "id": 5,
+      "image": "https://i5.walmartimages.com/asr/7c0e53ae-19ea-49b4-ba59-85e7479f3600_1.a1762a07e37c72f554f7cbbe7c8fda37.jpeg",
+      "title": "Vintage Turquoise Pendant Necklace",
+      "price": 2000
+    },
+    {
+      "id": 6,
+      "image": "https://1.bp.blogspot.com/-WNYjU9_za3w/UOf-gT_rSVI/AAAAAAAAIPg/Iri_YUeighc/s1600/Purple-Cocktail-Dress-Designs.jpg",
+      "title": "coctail dress",
+      "price": 700
+    },
+    {
+      "id": 7,
+      "image": "https://i5.walmartimages.com/asr/7038edd1-62e1-4818-8df0-7784149ccdfe.1230296408b9fddb1f928cca096065e8.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "title": "Fridja Boho Finger Ring ",
+      "price": 5000
+    },
+    {
+      "id": 8,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.NebbX55R7-HZUi15Mus-fAHaI_&pid=Api&P=0",
+      "title": "mans best casual shirt",
+      "price": 990
+    },
+    {
+      "id": 9,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.nUosOC2WRAskKFNIb2PqNwHaGh&pid=Api&P=0",
+      "title": "LG UQ80 108 cm (43 inch) 4K Ultra HD LED WebOS TV with Voice Assistance (2022 model)",
+      "price": 43200
+    },
+    {
+      "id": 10,
+      "image": "https://i5.walmartimages.com/asr/99798dce-ae2f-4ea4-aba8-a8457567012e.3e8129bbef90cb6c35c957113fc39369.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff",
+      "title": "man's hoodie",
+      "price": 559
+    },
+    {
+      "id": 11,
+      "image": "https://images.priceoye.pk/vivo-v17-pakistan-priceoye-8zdc1.jpg",
+      "title": "vivo mobile phone",
+      "price": 29000
+    },
+    {
+      "id": 12,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.VtS858lYT3gsWcet8pZVYgHaGX&pid=Api&P=0",
+      "title": "diamond silver nacklace",
+      "price": 2000
+    }
+  ],
+  "users": [
+    {"name": "swati panse",
+    "ename": "swatipanse987@gmail.com",
+    "pass":"000000",
+    "contact": 7720912005,
+    "address": "narsala,nagpur",
+    "gender": "female",
+    "id": 101
+  },
+    {
+      "name": "sanvi more",
+      "ename": "sanvimore@gmail.com",
+      "pass":"01010101",
+      "contact": 7119482449,
+      "address": "dighori,nagpur",
+      "gender": "female",
+      "id": 102
+    },
+    {
+      "id": 103,
+      "name": "chaitu selokar",
+      "email": "chaitus123@gmail.com",
+      "pass": "chaitu456",
+      "contact": 9876543210,
+      "address": "nandanvan,nagpur",
+      "gender": "female"
+    },
+    {
+      "email": "shivanimesh@gmail.com",
+      "pass": "010101",
+      "id": 104
+    }
+   
+  ]
+}
